@@ -1,11 +1,22 @@
+# TITAN Data Space UI
 
-  # Data Space Catalog Page (Copy)
+A React/TypeScript mockup of the TITAN Data Space Catalog interface, 
+developed as part of the EU Horizon Europe TITAN project.
 
-  This is a code bundle for Data Space Catalog Page (Copy). The original project is available at https://www.figma.com/design/HMQeVx3a9GE9DbQj6rj657/Data-Space-Catalog-Page--Copy-.
+## Features
+- Asset Catalog (Services, Models, Datasets)
+- Request Access & Agreement flow
+- Model Workspace with training monitoring
+- Execute Job flow (Centralized & Federated)
 
-  ## Running the code
+## Getting Started
 
-  Run `npm i` to install the dependencies.
+Install dependencies:
+```bash
+npm install
+```
 
-  Run `npm run dev` to start the development server.
-  
+Start the development server:
+```bash
+npm run dev
+```
