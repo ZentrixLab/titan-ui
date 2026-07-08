@@ -1,6 +1,6 @@
-# TITAN Data Space UI
+# TITAN UI
 
-A React/TypeScript mockup of the TITAN Data Space Catalog interface, 
+A React/TypeScript mockup of the TITAN dashboard, 
 developed as part of the EU Horizon Europe TITAN project.
 
 ## Features
